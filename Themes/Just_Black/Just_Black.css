@@ -13,6 +13,8 @@
 	--Yellow: 39, calc(var(--saturation-factor, 1)*100%), 50%; /* An HSL triplet for warning (default: 39, calc(var(--saturation-factor, 1)*100%), 50%) */
 	--Blank: 0.7; /* An opacity for not hovered, 0 for hiding, 1 for showing (default: 0.7) */
 	--server-container: calc(var(--server-size) + 27px) !important; /* Horizontal Server List Theme Support */
+	
+	https://github.com/unoyea/Just-Dark/edit/master/Themes/Just_Black/Just_Black.css
 }
 .theme-dark:root,
 .theme-dark:root div #ace_settingsmenu,
